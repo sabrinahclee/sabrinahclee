@@ -1,4 +1,4 @@
-Hi, I’m Sabrina. I am an architecture student. I am learning creative coding with JavaScript.
+Hi, I’m Sabrina. I am learning creative coding with JavaScript.
 
 <!---
 sabrinahclee/sabrinahclee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
